@@ -1,1 +1,1 @@
-soalnya ada sama bang abby
+soalnya ada sama bang abby (lupa)
