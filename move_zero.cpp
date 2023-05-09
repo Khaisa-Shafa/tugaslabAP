@@ -29,7 +29,7 @@ void update1And0Positions(int arr[], int n) {
    }
 }
 int main() {
-   int arr[] = { 0, 5, 7, 1, 0, 1};
+   int arr[] = {1, 2, 3, 0, 4, 5, 0, 0};
    int n = sizeof(arr)/sizeof(arr[0]);
    update1And0Positions(arr, n);
    for (int i = 0; i < n; i++) {
